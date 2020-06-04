@@ -1,0 +1,144 @@
+
+body{
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+/*------------------------------footer--class----------------------------------*/
+h1{
+  margin-top: 0;
+  line-height: 2;
+  font-family: 'Sacramento', cursive;
+  color: #66bfbf;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #11999e;
+}
+
+hr{
+  color: #eaf6f6;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+/*------------------------------footer--class----------------------------------*/
+
+.middle-container{
+margin:  20px auto;
+}
+
+
+
+.bottom-container{
+margin: 20px auto;
+}
+
+
+/*------------------------------footer--class----------------------------------*/
+.name-text{
+  font-weight: bold;
+  font-size: 100px;
+  margin: 50 auto 0 auto;
+}
+
+.tester-text{
+  font-weight: normal;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.a-hello{
+  width: 40%;
+  margin: auto;
+  font-style: bold;
+}
+/*-----------------------------skill row-------------------*/
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+}
+
+.bap-image1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.bap-image2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn{
+  border: 1px solid #66BFBF;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-size: 16px;
+  padding: 10px;
+  background-color:#66BFBF;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 20px auto;
+}
+
+/*------------------------------footer--class----------------------------------*/
+.footer{
+  padding: 50px;
+  background-color: #66BFBF;
+  color: #eaf6f6;
+  font-size:  0.75rem;
+}
+
+.facebook-link{
+  margin: 30px auto;
+  color: #11999e;
+}
+
+
+/*------------------------------footer--class----------------------------------*/
